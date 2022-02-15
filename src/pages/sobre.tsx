@@ -10,58 +10,23 @@ export default function Sobre() {
             <Flex w="100%" my="6" mx="auto" maxWidth={1480} px="6" >
                 <Box w='100%' p={4} color='white'>
                     <Heading as='h2' size='2xl' fontWeight="bold" letterSpacing="tight" textAlign='center'>
-                        Sobre o AirBnB
+                        Sobre
                     </Heading>
                     <br />
-                    <Text>
-                        Fiuk chorando, karol agarrando o Bill, equipamento estourando, casca de pau, cuiedeira passando por riba de sememente, máquina passando por coma da roça. Bicicleta perdendo freio na descida, rasteira baiana, engastiando na boca estaca de pau e quebrando os dente tudo.
-                        <br />
-                        <br />
+                    <Text align='justify'>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean metus ante, lobortis vel enim sed, finibus lacinia eros. Nullam egestas dictum magna, sit amet elementum nisi scelerisque et. Sed lacinia placerat justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at nibh semper, sodales nisi sit amet, dapibus metus. Quisque ac semper ante. In pharetra a eros nec sollicitudin. Nam eu interdum mauris. Nullam feugiat tortor sem, eget aliquam mi accumsan sed. Aenean ultrices magna tortor, in blandit tellus suscipit at. Proin tempor maximus sapien in facilisis. Donec ultrices, est vitae elementum fringilla, enim enim placerat magna, vitae fringilla odio nulla et enim.
 
-                        Arrebentando arame, mulher gritando, e ta só começando. Fiuk chorando,  moto estralando, moto fazendo tananananannann. Casca de pau, cambio de trator engastaindo, engrenagem enpenando.
-                        <br />
-                        <br />
+Ut sit amet ligula ut mauris blandit varius. Quisque enim orci, gravida eu est quis, efficitur tincidunt leo. Ut vestibulum finibus vehicula. Donec eleifend eros sit amet ipsum aliquam, eu facilisis arcu pellentesque. Nunc dui nisi, finibus sit amet elementum nec, hendrerit et felis. Pellentesque quis tortor tortor. Ut suscipit fringilla laoreet. Nullam venenatis ornare urna non lacinia. Integer malesuada vestibulum est. Morbi blandit bibendum nulla at laoreet. Morbi fermentum risus quam, ut lobortis quam placerat eget. Suspendisse pharetra est libero, quis egestas odio dignissim a. Nullam vehicula laoreet sem eget commodo.
 
+Vestibulum auctor nunc eu elementum congue. Vestibulum ornare leo ut dictum ultricies. Donec interdum vehicula odio, id porttitor diam imperdiet vel. Sed varius venenatis purus, eu dapibus enim. Pellentesque congue euismod sapien, a mattis arcu rhoncus posuere. Nunc dignissim faucibus nisl, a lacinia nulla finibus sit amet. Phasellus mattis hendrerit sapien, a egestas lorem interdum vitae. Suspendisse lacinia elementum est, ac luctus purus luctus sit amet. Vestibulum vehicula velit ut augue maximus, ac sollicitudin dolor cursus.
 
-                        Isso aqui ainda vai pegar fogo, cambio de trator engastaindo, gil chamando pocah de Basculho, Moto estralando tenénénénénénénénéné, karol agarrando o Bill, moto fazendo tananananannann, gaio de pau quebrando, karol agarrando o Bill, e ta só começando. Moto estralando tenénénénénénénénéné, cuiedeira passando por riba de sememente, máquina passando por coma da roça, aqueles bate boca, vaca entrando no meio de roça!, trator tabaindo com oleo de cabana. Gaio de pau quebrando, mulher gritando, bebe chorando.
-                        <br />
-                        <br />
-                        Fiuk chorando, vaca entrando no meio de roça!, menino correndo. O cambio ficando vermei, mulher gritando, trator tabaindo com oleo de cabana. Arrebentando arame, karol agarrando o Bill, e ta só começando.
-                        <br />
-                        <br />
-                        Bicicleta perdendo freio na descida, rasteira baiana, engastiando na boca estaca de pau e quebrando os dente tudo. Arrebentando arame, vaca entrando no meio de roça!, equipamento estourando, bicicleta perdendo freio na descida, mulher gritando, moto fazendo tananananannann. Isso aqui ainda vai pegar fogo, cambio de trator engastaindo, bebe chorando.
-                        <br />
-                        <br />
-                        Arrebentando arame, biela batendo, engrenagem enpenando. Fiuk chorando,  moto estralando, menino correndo.
-                        <br />
-                        <br />
-                        Casca de pau, karol agarrando o Bill, menino correndo. Globo da morte trabaiando,  moto estralando, menino correndo, aqueles bate boca, cambio de trator engastaindo, menino correndo.
-                        <br />
-                        <br />
-                        Bicicleta perdendo freio na descida,  moto estralando, engastiando na boca estaca de pau e quebrando os dente tudo. Arrebentando arame, cambio de trator engastaindo, engastiando na boca estaca de pau e quebrando os dente tudo, casca de pau, mulher gritando, menino correndo.
-                        <br />
-                        <br />
-                        Isso aqui ainda vai pegar fogo, karol agarrando o Bill, máquina passando por coma da roça. Isso aqui ainda vai pegar fogo, cambio de trator engastaindo, engastiando na boca estaca de pau e quebrando os dente tudo, o cambio ficando vermei, biela batendo, trator tabaindo com oleo de cabana.
-                        <br />
-                        <br />
-                        Gaio de pau quebrando, cambio de trator engastaindo, menino correndo. Aqueles bate boca, cambio de trator engastaindo, trator tabaindo com oleo de cabana, casca de pau, cambio de trator engastaindo, equipamento estourando, aqueles bate boca, vaca entrando no meio de roça!, máquina passando por coma da roça.
-                        <br />
-                        <br />
-                        O cambio ficando vermei, rasteira baiana, equipamento estourando, Moto estralando tenénénénénénénénéné, cambio de trator engastaindo, trator tabaindo com oleo de cabana. Gaio de pau quebrando,  moto estralando, e ta só começando, o cambio ficando vermei, vaca entrando no meio de roça!, gil chamando pocah de Basculho. Arrebentando arame, cuiedeira passando por riba de sememente, engastiando na boca estaca de pau e quebrando os dente tudo, Fiuk chorando, karol agarrando o Bill, gil chamando pocah de Basculho.
-                        <br />
-                        <br />
-                        Isso aqui ainda vai pegar fogo, biela batendo, engastiando na boca estaca de pau e quebrando os dente tudo, arrebentando arame, cuiedeira passando por riba de sememente, equipamento estourando. Moto estralando tenénénénénénénénéné, rasteira baiana, moto fazendo tananananannann. Fiuk chorando,  moto estralando, bebe chorando, aqueles bate boca, rasteira baiana, engastiando na boca estaca de pau e quebrando os dente tudo.
-                        <br />
-                        <br />
-                        Arrebentando arame, rasteira baiana, equipamento estourando. Cavalo pulando, rasteira baiana, bebe chorando, casca de pau,  moto estralando, bebe chorando, gaio de pau quebrando, karol agarrando o Bill, engastiando na boca estaca de pau e quebrando os dente tudo.
-                        <br />
-                        <br />
-                        Bicicleta perdendo freio na descida, mulher gritando, bebe chorando. Arrebentando arame, rasteira baiana, menino correndo, arrebentando arame, mulher gritando, engastiando na boca estaca de pau e quebrando os dente tudo, Moto estralando tenénénénénénénénéné, mulher gritando, máquina passando por coma da roça.
-                        <br />
-                        <br />
-                        Fiuk chorando, cuiedeira passando por riba de sememente, trator tabaindo com oleo de cabana. Aqueles bate boca, biela batendo, trator tabaindo com oleo de cabana. Casca de pau, karol agarrando o Bill, menino correndo, isso aqui ainda vai pegar fogo,  moto estralando, bebe chorando.
-                        <br />
-                        <br />
+Nulla in mi risus. Cras ornare sagittis egestas. Nulla sit amet convallis metus. Cras pellentesque dictum lectus quis convallis. Nulla ante enim, tempor non augue eget, dapibus interdum metus. Maecenas egestas, lacus ac luctus ullamcorper, dolor magna bibendum neque, non facilisis ex mi quis orci. Mauris ac orci rutrum nunc gravida posuere. Nunc vestibulum nisl in lacus fermentum luctus eget nec ex.
+
+Integer vel metus quis nisl cursus sodales. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse potenti. Nulla ac lacinia velit, eget mollis turpis. Proin lacinia viverra interdum. In hac habitasse platea dictumst. Nulla et hendrerit odio.
+
+Donec laoreet lectus non gravida lobortis. Vestibulum viverra laoreet neque. Morbi a lorem mollis, ultrices odio ac, imperdiet ipsum. Sed risus ante, blandit imperdiet ornare et, sagittis eget felis. Etiam ante lectus, scelerisque nec velit eu, ultricies varius purus. Phasellus sit amet sapien eu ligula facilisis ornare. Maecenas sagittis et nisi non congue.
+
+Integer a pretium orci. Curabitur ac tellus lorem. Mauris nisl tellus, ornare at leo at, facilisis malesuada sapien. Praesent quis tempus metus. In placerat ligula dolor, nec dictum metus sollicitudin a. Sed mauris metus, fringilla sit amet ornare vel, ornare quis turpis. In euismod commodo nisl sed euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean viverra a odio et suscipit. Fusce sollicitudin, felis ut hendrerit malesuada, metus odio tristique nibh, at dictum nulla odio in arcu. Donec vitae neque dolor.
                     </Text>
 
                 </Box>

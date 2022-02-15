@@ -10,7 +10,7 @@ export function Navbar() {
           <Link fontWeight="bold" color="gray.100">Home</Link>
         </NextLink>
         <NextLink href='/sobre' passHref >
-          <Link fontWeight="bold" color="gray.100">Sobre mim</Link>
+          <Link fontWeight="bold" color="gray.100">Sobre</Link>
         </NextLink>
 
 

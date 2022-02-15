@@ -1,6 +1,4 @@
 import { Flex } from "@chakra-ui/react";
-
-import { Logo } from "./Logo";
 import { Navbar } from "./NavBar";
 
 export function Header() {
@@ -14,7 +12,6 @@ export function Header() {
       align="center"
       justify='space-between'
     >
-      <Logo />
       <Flex align="center">
         <Navbar />
       </Flex>
